@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Thiago+Ferreira+de+Oliveira;Desenvolvedor+Python;Linux+Manjaro+%7C+Brasil" alt="Typing SVG" />
+</p>
+
+---
+
 Em transição para a área de tecnologia, estou dedicado aos estudos de Python com foco em desenvolvimento backend. Acredito em código limpo, boas práticas e aprendizado contínuo. Atualmente estudo lógica de programação, estruturas de dados e ferramentas de desenvolvimento modernas.
 
 ## Tecnologias
