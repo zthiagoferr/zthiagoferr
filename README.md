@@ -24,10 +24,6 @@ Em transição para a área de tecnologia, estou dedicado aos estudos de Python 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2500&pause=500&color=00FF00&center=true&vCenter=true&width=300&lines=Estudando+Python;Aprendendo+Backend;Desenvolvendo+APIs;Sempre+aprendendo" alt="Currently learning" />
 </p>
 
-## Projetos em Destaque
-
-### [Estudos Python](https://gitlab.com/thia80.ferreira/estudos)
-
 ## Objetivos
 
 - Dominar Python para desenvolvimento backend
