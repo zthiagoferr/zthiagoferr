@@ -43,8 +43,10 @@ Em transição para a área de tecnologia, estou dedicado aos estudos de Python 
 
 <div align="center">
 
+[![Instagram](https://img.shields.io/badge/Instagram-@__zthiagof-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_zthiagof)
+[![Email](https://img.shields.io/badge/Email-contato.thiagofo@icloud.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.thiagofo@icloud.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+55_11_94510--0692-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511945100692)
 [![GitLab](https://img.shields.io/badge/GitLab-thia80.ferreira-FC6D26?style=for-the-badge&logo=gitlab)](https://gitlab.com/thia80.ferreira)
-[![GitHub](https://img.shields.io/badge/GitHub-zthiagoferr-181717?style=for-the-badge&logo=github)](https://github.com/zthiagoferr)
 
 </div>
 
