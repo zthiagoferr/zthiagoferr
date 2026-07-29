@@ -26,8 +26,8 @@ Em transição para a área de tecnologia, estou dedicado aos estudos de Python 
 
 ## Projetos em Destaque
 
-### [fundamentos_python](https://github.com/zthiagoferr/fundamentos_python)
-Códigos gerados no curso de Fundamentos de Python — do básico ao avançado.
+### [Estudos Python](https://gitlab.com/thia80.ferreira/estudos)
+Jornada completa de aprendizado de Python, do básico ao avançado, organizada em fases.
 
 ## Objetivos
 
