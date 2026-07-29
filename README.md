@@ -9,6 +9,8 @@ Em transição para a área de tecnologia, estou dedicado aos estudos de Python 
 <div align="center">
 
 [![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://python.org)
+[![FastAPI](https://skillicons.dev/icons?i=fastapi&theme=dark)](https://fastapi.tiangolo.com)
+[![Postman](https://skillicons.dev/icons?i=postman&theme=dark)](https://postman.com)
 [![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com)
 [![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com)
 [![GitLab](https://skillicons.dev/icons?i=gitlab&theme=dark)](https://gitlab.com)
@@ -19,7 +21,7 @@ Em transição para a área de tecnologia, estou dedicado aos estudos de Python 
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2500&pause=500&color=00FF00&center=true&vCenter=true&width=300&lines=Estudando+Python;Aprendendo+Backend;Explorando+APIs;Sempre+aprendendo" alt="Currently learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2500&pause=500&color=00FF00&center=true&vCenter=true&width=300&lines=Estudando+Python;Aprendendo+Backend;Desenvolvendo+APIs;Sempre+aprendendo" alt="Currently learning" />
 </p>
 
 ## Projetos em Destaque
