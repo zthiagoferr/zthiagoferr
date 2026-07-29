@@ -1,5 +1,4 @@
-<h1 align="center">Thiago Ferreira de Oliveira</h1>
-<h3 align="center">Desenvolvedor Python &bull; Linux Manjaro &bull; Brasil</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Thiago+Ferreira+de+Oliveira;Desenvolvedor+Python;Linux+Manjaro+%7C+Brasil)](https://git.io/typing-svg)
 
 ---
 
