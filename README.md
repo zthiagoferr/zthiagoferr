@@ -27,7 +27,6 @@ Em transição para a área de tecnologia, estou dedicado aos estudos de Python 
 ## Projetos em Destaque
 
 ### [Estudos Python](https://gitlab.com/thia80.ferreira/estudos)
-Jornada completa de aprendizado de Python, do básico ao avançado, organizada em fases.
 
 ## Objetivos
 
