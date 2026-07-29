@@ -33,8 +33,8 @@ Códigos gerados no curso de Fundamentos de Python — do básico ao avançado.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zthiagoferr&show_icons=true&theme=dark&hide_title=true&bg_color=0d1117&border_color=30363d)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zthiagoferr&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=zthiagoferr&show_icons=true&theme=dark&hide_title=true&bg_color=0d1117&border_color=30363d)
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=zthiagoferr&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d)
 
 </div>
 
