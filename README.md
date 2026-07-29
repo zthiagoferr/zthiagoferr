@@ -59,3 +59,5 @@ Em transição para a área de tecnologia, estou dedicado aos estudos de Python 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
+
+**[URL Shortener API](https://github.com/zthiagoferr/url-shortener)** — API de encurtamento de URLs com rastreamento de cliques e redirecionamento. Deploy no Railway.
