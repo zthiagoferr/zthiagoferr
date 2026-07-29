@@ -8,15 +8,15 @@ Em transição para a área de tecnologia, estou dedicado aos estudos de Python 
 
 <div align="center">
 
-[![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://python.org)
-[![FastAPI](https://skillicons.dev/icons?i=fastapi&theme=dark)](https://fastapi.tiangolo.com)
-[![Postman](https://skillicons.dev/icons?i=postman&theme=dark)](https://postman.com)
-[![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com)
-[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com)
-[![GitLab](https://skillicons.dev/icons?i=gitlab&theme=dark)](https://gitlab.com)
-[![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark)](https://code.visualstudio.com)
-[![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://kernel.org)
-[![Manjaro](https://skillicons.dev/icons?i=manjaro&theme=dark)](https://manjaro.org)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
 
 </div>
 
