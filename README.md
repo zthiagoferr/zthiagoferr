@@ -8,15 +8,19 @@ Em transição para a área de tecnologia, estou dedicado aos estudos de Python 
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
+[![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://python.org)
+[![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com)
+[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com)
+[![GitLab](https://skillicons.dev/icons?i=gitlab&theme=dark)](https://gitlab.com)
+[![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark)](https://code.visualstudio.com)
+[![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://kernel.org)
+[![Manjaro](https://skillicons.dev/icons?i=manjaro&theme=dark)](https://manjaro.org)
 
 </div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2500&pause=500&color=00FF00&center=true&vCenter=true&width=300&lines=Estudando+Python;Aprendendo+Backend;Explorando+APIs;Sempre+aprendendo" alt="Currently learning" />
+</p>
 
 ## Projetos em Destaque
 
@@ -51,4 +55,8 @@ Códigos gerados no curso de Fundamentos de Python — do básico ao avançado.
 
 <p align="center">
   <i>"A jornada de mil milhas começa com um único passo." — Lao-Tsé</i>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
