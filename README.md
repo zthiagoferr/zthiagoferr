@@ -4,8 +4,6 @@
 
 ---
 
-## Sobre Mim
-
 Em transição para a área de tecnologia, estou dedicado aos estudos de Python com foco em desenvolvimento backend. Acredito em código limpo, boas práticas e aprendizado contínuo. Atualmente estudo lógica de programação, estruturas de dados e ferramentas de desenvolvimento modernas.
 
 ## Tecnologias
@@ -26,15 +24,6 @@ Em transição para a área de tecnologia, estou dedicado aos estudos de Python 
 
 ### [fundamentos_python](https://github.com/zthiagoferr/fundamentos_python)
 Códigos gerados no curso de Fundamentos de Python — do básico ao avançado.
-
-### [BeautifulSoup](https://github.com/zthiagoferr/BeautifulSoup)
-Web scraping com Python utilizando a biblioteca BeautifulSoup.
-
-### [excel](https://github.com/zthiagoferr/excel)
-Automação e manipulação de planilhas Excel com Python.
-
-### [grafico](https://github.com/zthiagoferr/grafico)
-Visualização de dados e geração de gráficos com Python.
 
 ## Objetivos
 
