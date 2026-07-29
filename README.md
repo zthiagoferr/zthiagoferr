@@ -1,13 +1,6 @@
-# 👋 Olá, eu sou Thiago Ferreira de Oliveira
-
-**Desenvolvedor Python em Formação | Linux Manjaro | Brasil**
-
-[![GitHub](https://img.shields.io/badge/GitHub-zthiagoferr-181717?style=flat&logo=github)](https://github.com/zthiagoferr)
-[![GitLab](https://img.shields.io/badge/GitLab-thia80.ferreira-FC6D26?style=flat&logo=gitlab)](https://gitlab.com/thia80.ferreira)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linuxfoundation.org/)
-[![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=flat&logo=manjaro&logoColor=white)](https://manjaro.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Thiago+Ferreira+de+Oliveira;Desenvolvedor+Python;Linux+Manjaro+%7C+Brasil" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -17,28 +10,31 @@ Em transição para a área de tecnologia, estou dedicado aos estudos de Python 
 
 ## Tecnologias
 
-| Categoria | Tecnologias |
-|-----------|-------------|
-| **Linguagens** | Python |
-| **Ferramentas** | Git, GitLab, GitHub, VS Code, Nano |
-| **Sistema Operacional** | Linux Manjaro |
-| **Conceitos** | Lógica de Programação, Estruturas de Dados, POO |
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
+
+</div>
 
 ## Projetos em Destaque
 
-### [Estudos Python](https://github.com/zthiagoferr/fundamentos_python)
+### [fundamentos_python](https://github.com/zthiagoferr/fundamentos_python)
+Códigos gerados no curso de Fundamentos de Python — do básico ao avançado.
 
-Jornada completa de aprendizado de Python, do básico ao avançado, organizada em fases:
+### [BeautifulSoup](https://github.com/zthiagoferr/BeautifulSoup)
+Web scraping com Python utilizando a biblioteca BeautifulSoup.
 
-- **Fase 1** — Fundamentos (variáveis, operadores, `if`/`else`)
-- **Fase 2** — Lógica e Dados (`while`, listas, dicionários, funções)
-- **Fase 3** — Projetos práticos
+### [excel](https://github.com/zthiagoferr/excel)
+Automação e manipulação de planilhas Excel com Python.
 
-### Outros Projetos
-
-- [**excel**](https://github.com/zthiagoferr/excel) — Automação com planilhas
-- [**grafico**](https://github.com/zthiagoferr/grafico) — Visualização de dados
-- [**BeautifulSoup**](https://github.com/zthiagoferr/BeautifulSoup) — Web scraping com Python
+### [grafico](https://github.com/zthiagoferr/grafico)
+Visualização de dados e geração de gráficos com Python.
 
 ## Objetivos
 
@@ -48,12 +44,24 @@ Jornada completa de aprendizado de Python, do básico ao avançado, organizada e
 
 ## Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=zthiagoferr&show_icons=true&theme=dark&hide_title=true)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zthiagoferr&show_icons=true&theme=dark&hide_title=true&bg_color=0d1117&border_color=30363d)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zthiagoferr&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d)
+
+</div>
 
 ## Contato
 
-[![GitLab](https://img.shields.io/badge/GitLab-thia80.ferreira-FC6D26?style=flat&logo=gitlab)](https://gitlab.com/thia80.ferreira)
+<div align="center">
+
+[![GitLab](https://img.shields.io/badge/GitLab-thia80.ferreira-FC6D26?style=for-the-badge&logo=gitlab)](https://gitlab.com/thia80.ferreira)
+[![GitHub](https://img.shields.io/badge/GitHub-zthiagoferr-181717?style=for-the-badge&logo=github)](https://github.com/zthiagoferr)
+
+</div>
 
 ---
 
-*"A jornada de mil milhas começa com um único passo." — Lao-Tsé*
+<p align="center">
+  <i>"A jornada de mil milhas começa com um único passo." — Lao-Tsé</i>
+</p>
