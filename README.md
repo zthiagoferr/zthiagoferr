@@ -2,10 +2,17 @@
 
 ---
 
-Desenvolvedor Python focado em backend: construção de APIs, bots e automações
-com código limpo, boas práticas e atenção à qualidade. Experiência com bancos
-de dados relacionais, integrações (Pix/Mercado Pago, Telegram) e deploys em
-nuvem. Projetos desenvolvidos de ponta a ponta, do banco de dados ao frontend.
+Desenvolvedor Python full stack, com foco em backend e frontend: construção de
+APIs REST, bots para o Telegram, automações e interfaces web. Domínio de código
+limpo, boas práticas, testes e atenção à qualidade em todas as camadas.
+
+Experiência com bancos de dados relacionais (PostgreSQL + migrações),
+integrações de pagamento (Pix BR Code e Mercado Pago), Mini Apps do Telegram
+(HTML, CSS e JavaScript) e deploys na nuvem (Render, GitHub Actions/GitLab CI).
+
+Desenvolvo projetos de ponta a ponta: modelagem de dados, API, lógica de
+negócio, frontend, testes automatizados e deploy. Gosto de transformar
+problemas reais em soluções completas, do banco de dados à interface final.
 
 ## Tecnologias
 
@@ -15,6 +22,9 @@ nuvem. Projetos desenvolvidos de ponta a ponta, do banco de dados ao frontend.
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![aiohttp](https://img.shields.io/badge/aiohttp-2C5BB4?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Telegram](https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -38,13 +48,22 @@ nuvem. Projetos desenvolvidos de ponta a ponta, do banco de dados ao frontend.
 
 ## Experiência
 
-- Desenvolvimento de bots no Telegram com fluxos conversacionais completos
+### Backend
+- Bots no Telegram com fluxos conversacionais completos
   (cardápio → carrinho → checkout → pagamento → acompanhamento)
-- API REST para Mini Apps com autenticação por `initData` do Telegram
+- API REST com autenticação por `initData` do Telegram
 - Pagamento Pix: implementação BR Code/EMV e integração com Mercado Pago
 - Modelagem de banco PostgreSQL com migrações Alembic
-- Deploy e CI/CD (GitHub Actions, Render)
+
+### Frontend
+- Mini Apps do Telegram (HTML, CSS, JavaScript) integrados à API
+- Interface de cardápio com busca, carrinho persistido, cupom e checkout
+- Painel administrativo com gestão de pedidos, promoções e taxas
+
+### Infraestrutura
+- Deploy e CI/CD (GitHub Actions, GitLab CI, Render)
 - Linux/Manjaro como ambiente de desenvolvimento diário
+- Versionamento com Git (GitHub e GitLab)
 
 ## Estatísticas
 
