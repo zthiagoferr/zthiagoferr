@@ -2,45 +2,134 @@
 
 ---
 
-Desenvolvedor Python **backend-first**: APIs REST (FastAPI, aiohttp), bots para
-Telegram e automações — com frontend (HTML/CSS/JS, React) e deploy de ponta a
-ponta. Experiência em PostgreSQL, Pix (BR Code, Mercado Pago), JWT, Docker e
-CI/CD (GitHub Actions, GitLab CI, Render, Vercel, Railway).
+## 👋 Sobre mim
 
-## Tecnologias
+Desenvolvedor Python **backend-first**, apaixonado por transformar problemas
+reais em soluções completas e funcionais. Construo aplicações de ponta a ponta:
+da modelagem do banco de dados à interface que o usuário final vê, passando por
+APIs, integrações de pagamento e deploy na nuvem.
 
-<div align="center">
+Meu foco é **código limpo, testado e bem documentado**. Gosto de entender o
+problema antes de escrever a primeira linha e de entregar algo que realmente
+funcione em produção — não só que "rode na minha máquina".
+
+- 🔭 Trabalhando em bots, APIs REST e sistemas de pagamento com Python
+- 🌱 Aprofundando em arquitetura de sistemas e qualidade de software
+- ⚡ Curioso por automação: tudo que é repetitivo, dá para automatizar
+- 💬 Vamos conversar sobre Python, bots, APIs e boas práticas
+
+---
+
+## 🛠️ Tecnologias
+
+### Backend
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![aiohttp](https://img.shields.io/badge/aiohttp-2C5BB4?style=for-the-badge&logo=python&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-964B00?style=for-the-badge&logo=python&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+
+### Frontend
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Telegram](https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![CustomTkinter](https://img.shields.io/badge/CustomTkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Infraestrutura e ferramentas
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
-</div>
+---
 
-## Projetos
+## 📁 Projetos
 
-- **pastelaria-bot** — Bot do Telegram + Mini App: cardápio, carrinho, pagamento
-  Pix (BR Code e Mercado Pago), promoções e painel do dono. Python + aiohttp +
-  PostgreSQL + Alembic. → [link](https://github.com/zthiagoferr/pastelaria-bot)
-- **devshowcase** — API REST (FastAPI) + frontend React com CRUD completo.
-  Deploy no Render e Vercel. → [link](https://github.com/zthiagoferr/devshowcase)
-- **task-manager-api** — API de tarefas com FastAPI + JWT + Docker e app desktop
-  em CustomTkinter. Deploy no Railway. → [link](https://github.com/zthiagoferr/task-manager-api)
-- **url-shortener** — Encurtador de URLs com rastreamento de cliques. FastAPI +
-  SQLAlchemy (async) + SQLite + Alembic. → [link](https://github.com/zthiagoferr/url-shortener)
-- **notification-service** — API de notificações multi-canal assíncrona (in-app,
-  e-mail, WebSocket, bot Telegram). → [link](https://github.com/zthiagoferr/notification-service)
-- **estudos** — Jornada de Python em 10 fases, do básico a APIs REST, com
-  exercícios em português. → [link](https://github.com/zthiagoferr/estudos)
+### 🤖 Bots e automações
 
-## Estatísticas
+**Bot de pedidos para pastelaria** — sistema completo de vendas pelo Telegram.
+- Bot conversacional (cardápio → carrinho → checkout → acompanhamento)
+- Mini App em HTML/CSS/JS integrado ao bot
+- Pagamento via Pix (BR Code/EMV) e Mercado Pago
+- Promoções com publicação automática no canal
+- Painel de gestão para o dono (pedidos, promoções, taxas, estoque)
+- PostgreSQL + migrações Alembic · testes automatizados · deploy no Render
+
+→ [github.com/zthiagoferr/pastelaria-bot](https://github.com/zthiagoferr/pastelaria-bot)
+
+### 🚀 APIs REST
+
+**Dev Showcase** — portfólio de desenvolvedor com CRUD completo.
+- API REST em FastAPI + frontend React
+- Deploy no Render e Vercel
+
+→ [github.com/zthiagoferr/devshowcase](https://github.com/zthiagoferr/devshowcase)
+
+**Task Manager API** — gerenciador de tarefas.
+- API em FastAPI com autenticação JWT
+- App desktop em CustomTkinter consumindo a API
+- Docker + deploy no Railway
+
+→ [github.com/zthiagoferr/task-manager-api](https://github.com/zthiagoferr/task-manager-api)
+
+**URL Shortener** — encurtador de URLs.
+- Redirecionamento e rastreamento de cliques
+- FastAPI + SQLAlchemy (async) + SQLite + Alembic + Docker
+
+→ [github.com/zthiagoferr/url-shortener](https://github.com/zthiagoferr/url-shortener)
+
+**Notification Service** — serviço de notificações multi-canal assíncrono.
+- Notificações in-app, e-mail e push via WebSocket
+- Monitor de preços e integração com bot do Telegram
+
+→ [github.com/zthiagoferr/notification-service](https://github.com/zthiagoferr/notification-service)
+
+### 📚 Estudos
+
+**Estudos em Python** — jornada de aprendizado em 10 fases, do básico às APIs
+REST, com explicações em português, exercícios e código comentado.
+
+→ [github.com/zthiagoferr/estudos](https://github.com/zthiagoferr/estudos)
+
+---
+
+## 💡 Experiência
+
+### Backend
+- Bots no Telegram com fluxos conversacionais completos
+- API REST (FastAPI e aiohttp) com autenticação (JWT, `initData` do Telegram)
+- Pagamento Pix: implementação BR Code/EMV e integração com Mercado Pago
+- Modelagem de banco PostgreSQL com migrações Alembic
+- Padrões assíncronos: WebSocket, filas e scraping em serviços de notificação
+
+### Frontend
+- Mini Apps do Telegram (HTML, CSS, JavaScript) integrados à API
+- Interfaces em React (CRUD completo) e apps desktop (CustomTkinter)
+- Interface de cardápio com busca, carrinho persistido, cupom e checkout
+- Painel administrativo com gestão de pedidos, promoções e taxas
+
+### Infraestrutura
+- Deploy e CI/CD (GitHub Actions, GitLab CI, Render, Vercel, Railway)
+- Docker e containerização de serviços
+- Linux/Manjaro como ambiente de desenvolvimento diário
+- Versionamento com Git (GitHub e GitLab)
+
+---
+
+## 📊 Estatísticas
 
 <div align="center">
 
@@ -49,7 +138,9 @@ CI/CD (GitHub Actions, GitLab CI, Render, Vercel, Railway).
 
 </div>
 
-## Contato
+---
+
+## 📫 Contato
 
 <div align="center">
 
