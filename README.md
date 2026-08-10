@@ -3,12 +3,14 @@
 ---
 
 Desenvolvedor Python full stack, com foco em backend e frontend: construção de
-APIs REST, bots para o Telegram, automações e interfaces web. Domínio de código
-limpo, boas práticas, testes e atenção à qualidade em todas as camadas.
+APIs REST (FastAPI e aiohttp), bots para o Telegram, automações, serviços
+assíncronos e interfaces web (HTML/CSS/JS e React). Domínio de código limpo,
+boas práticas, testes e atenção à qualidade em todas as camadas.
 
-Experiência com bancos de dados relacionais (PostgreSQL + migrações),
-integrações de pagamento (Pix BR Code e Mercado Pago), Mini Apps do Telegram
-(HTML, CSS e JavaScript) e deploys na nuvem (Render, GitHub Actions/GitLab CI).
+Experiência com bancos de dados relacionais (PostgreSQL + migrações Alembic),
+integrações de pagamento (Pix BR Code e Mercado Pago), autenticação (JWT,
+`initData` do Telegram), Docker e deploys na nuvem (Render, Vercel, Railway,
+GitHub Actions/GitLab CI).
 
 Desenvolvo projetos de ponta a ponta: modelagem de dados, API, lógica de
 negócio, frontend, testes automatizados e deploy. Gosto de transformar
@@ -25,8 +27,11 @@ problemas reais em soluções completas, do banco de dados à interface final.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Telegram](https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -39,29 +44,50 @@ problemas reais em soluções completas, do banco de dados à interface final.
 
 ## Projetos em destaque
 
-- **Bot de pedidos para pastelaria** — Bot do Telegram + Mini App (HTML/CSS/JS)
-  com cardápio, carrinho, pagamento Pix (BR Code e Mercado Pago), promoções e
-  painel de gestão do dono. Python + aiohttp + PostgreSQL + Alembic.
+### Bots e automações
+- **Bot de pedidos para pastelaria** — Bot do Telegram + Mini App (HTML/CSS/JS):
+  cardápio, carrinho, pagamento Pix (BR Code e Mercado Pago), promoções e painel
+  de gestão do dono. Python + aiohttp + PostgreSQL + Alembic.
   <br>📦 [github.com/zthiagoferr/pastelaria-bot](https://github.com/zthiagoferr/pastelaria-bot)
-- **Gerador de bots de pedido** — Script que gera novos projetos de bot a partir
-  de um template, substituindo placeholders (nome, Pix, cidade) automaticamente.
+
+### APIs REST
+- **Dev Showcase** — API REST (FastAPI) para portfólio de dev + frontend React
+  com CRUD completo. Deploy no Render e Vercel.
+  <br>📦 [github.com/zthiagoferr/devshowcase](https://github.com/zthiagoferr/devshowcase)
+- **Task Manager API** — API de gerenciamento de tarefas com FastAPI + JWT +
+  Docker, com app desktop em CustomTkinter. Deploy no Railway.
+  <br>📦 [github.com/zthiagoferr/task-manager-api](https://github.com/zthiagoferr/task-manager-api)
+- **URL Shortener** — Encurtador de URLs com redirecionamento e rastreamento de
+  cliques. FastAPI + SQLAlchemy (async) + SQLite + Alembic + Docker.
+  <br>📦 [github.com/zthiagoferr/url-shortener](https://github.com/zthiagoferr/url-shortener)
+- **Notification Service** — API de notificações multi-canal assíncrona
+  (in-app, e-mail, push WebSocket, monitor de preços e bot Telegram).
+  <br>📦 [github.com/zthiagoferr/notification-service](https://github.com/zthiagoferr/notification-service)
+
+### Estudos
+- **Estudos em Python** — Jornada em 10 fases, do básico a APIs REST, com
+  explicações em português, exercícios e código comentado.
+  <br>📦 [github.com/zthiagoferr/estudos](https://github.com/zthiagoferr/estudos)
 
 ## Experiência
 
 ### Backend
 - Bots no Telegram com fluxos conversacionais completos
   (cardápio → carrinho → checkout → pagamento → acompanhamento)
-- API REST com autenticação por `initData` do Telegram
+- API REST (FastAPI e aiohttp) com autenticação (JWT, `initData` do Telegram)
 - Pagamento Pix: implementação BR Code/EMV e integração com Mercado Pago
 - Modelagem de banco PostgreSQL com migrações Alembic
+- Padrões assíncronos: WebSocket, filas e scraping em serviços de notificação
 
 ### Frontend
 - Mini Apps do Telegram (HTML, CSS, JavaScript) integrados à API
+- Interfaces em React (CRUD completo) e apps desktop (CustomTkinter)
 - Interface de cardápio com busca, carrinho persistido, cupom e checkout
 - Painel administrativo com gestão de pedidos, promoções e taxas
 
 ### Infraestrutura
-- Deploy e CI/CD (GitHub Actions, GitLab CI, Render)
+- Deploy e CI/CD (GitHub Actions, GitLab CI, Render, Vercel, Railway)
+- Docker e containerização de serviços
 - Linux/Manjaro como ambiente de desenvolvimento diário
 - Versionamento com Git (GitHub e GitLab)
 
