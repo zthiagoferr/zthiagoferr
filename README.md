@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Thiago+Ferreira+de+Oliveira;Desenvolvedor+Python;Backend+%7C+APIs+%7C+Bots;Linux+Manjaro+%7C+Brasil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&multiline=true&width=650&height=140&lines=Thiago+Ferreira+de+Oliveira;Desenvolvedor+Python+Full+Stack;Backend+%7C+Frontend+%7C+APIs+%7C+Bots;Pix+%7C+Mercado+Pago+%7C+Telegram+%7C+Docker;pastelaria-bot+%7C+devshowcase+%7C+task-manager-api;url-shortener+%7C+notification-service+%7C+estudos;Linux+Manjaro+%7C+Brasil)](https://git.io/typing-svg)
 
 ---
 
