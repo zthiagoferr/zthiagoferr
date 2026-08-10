@@ -1,8 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Thiago+Ferreira+de+Oliveira;Desenvolvedor+Python;Linux+Manjaro+%7C+Brasil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Thiago+Ferreira+de+Oliveira;Desenvolvedor+Python;Backend+%7C+APIs+%7C+Bots;Linux+Manjaro+%7C+Brasil)](https://git.io/typing-svg)
 
 ---
 
-Em transição para a área de tecnologia, estou dedicado aos estudos de Python com foco em desenvolvimento backend. Acredito em código limpo, boas práticas e aprendizado contínuo. Atualmente estudo lógica de programação, estruturas de dados e ferramentas de desenvolvimento modernas.
+Desenvolvedor Python focado em backend: construção de APIs, bots e automações
+com código limpo, boas práticas e atenção à qualidade. Experiência com bancos
+de dados relacionais, integrações (Pix/Mercado Pago, Telegram) e deploys em
+nuvem. Projetos desenvolvidos de ponta a ponta, do banco de dados ao frontend.
 
 ## Tecnologias
 
@@ -10,6 +13,10 @@ Em transição para a área de tecnologia, estou dedicado aos estudos de Python 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![aiohttp](https://img.shields.io/badge/aiohttp-2C5BB4?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -20,15 +27,24 @@ Em transição para a área de tecnologia, estou dedicado aos estudos de Python 
 
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2500&pause=500&color=00FF00&center=true&vCenter=true&width=300&lines=Estudando+Python;Aprendendo+Backend;Desenvolvendo+APIs;Sempre+aprendendo" alt="Currently learning" />
-</p>
+## Projetos em destaque
 
-## Objetivos
+- **Bot de pedidos para pastelaria** — Bot do Telegram + Mini App (HTML/CSS/JS)
+  com cardápio, carrinho, pagamento Pix (BR Code e Mercado Pago), promoções e
+  painel de gestão do dono. Python + aiohttp + PostgreSQL + Alembic.
+  <br>📦 [github.com/zthiagoferr/pastelaria-bot](https://github.com/zthiagoferr/pastelaria-bot)
+- **Gerador de bots de pedido** — Script que gera novos projetos de bot a partir
+  de um template, substituindo placeholders (nome, Pix, cidade) automaticamente.
 
-- Dominar Python para desenvolvimento backend
-- Construir projetos reais e portfólio sólido
-- Contribuir com a comunidade open source
+## Experiência
+
+- Desenvolvimento de bots no Telegram com fluxos conversacionais completos
+  (cardápio → carrinho → checkout → pagamento → acompanhamento)
+- API REST para Mini Apps com autenticação por `initData` do Telegram
+- Pagamento Pix: implementação BR Code/EMV e integração com Mercado Pago
+- Modelagem de banco PostgreSQL com migrações Alembic
+- Deploy e CI/CD (GitHub Actions, Render)
+- Linux/Manjaro como ambiente de desenvolvimento diário
 
 ## Estatísticas
 
@@ -53,10 +69,5 @@ Em transição para a área de tecnologia, estou dedicado aos estudos de Python 
 ---
 
 <p align="center">
-  <i>"A jornada de mil milhas começa com um único passo." — Lao-Tsé</i>
+  <i>"Código limpo é simples e direto. Código limpo lê-se como prosa bem escrita." — Robert C. Martin</i>
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
