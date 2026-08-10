@@ -1,20 +1,18 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&multiline=true&width=650&height=140&lines=Thiago+Ferreira+de+Oliveira;Desenvolvedor+Python+Full+Stack;Backend+%7C+Frontend+%7C+APIs+%7C+Bots;Pix+%7C+Mercado+Pago+%7C+Telegram+%7C+Docker;pastelaria-bot+%7C+devshowcase+%7C+task-manager-api;url-shortener+%7C+notification-service+%7C+estudos;Linux+Manjaro+%7C+Brasil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&multiline=true&width=650&height=140&lines=Thiago+Ferreira+de+Oliveira;Desenvolvedor+Python;Backend+%7C+APIs+REST+%7C+Bots+%7C+Automa%C3%A7%C3%B5es;Frontend+%7C+Mini+Apps+%7C+React+%7C+Deploy+de+ponta+a+ponta;Pix+%7C+Mercado+Pago+%7C+Telegram+%7C+Docker;pastelaria-bot+%7C+devshowcase+%7C+task-manager-api;url-shortener+%7C+notification-service+%7C+estudos;Linux+Manjaro+%7C+Brasil)](https://git.io/typing-svg)
 
 ---
 
-Desenvolvedor Python full stack, com foco em backend e frontend: construção de
-APIs REST (FastAPI e aiohttp), bots para o Telegram, automações, serviços
-assíncronos e interfaces web (HTML/CSS/JS e React). Domínio de código limpo,
-boas práticas, testes e atenção à qualidade em todas as camadas.
+Desenvolvedor Python **backend-first**: construo APIs REST (FastAPI e aiohttp),
+bots para o Telegram e automações com código limpo, testes e boas práticas.
+Também entrego o frontend que consome essas APIs — Mini Apps (HTML/CSS/JS),
+React e apps desktop — e faço o deploy completo, do banco de dados à nuvem.
 
-Experiência com bancos de dados relacionais (PostgreSQL + migrações Alembic),
-integrações de pagamento (Pix BR Code e Mercado Pago), autenticação (JWT,
-`initData` do Telegram), Docker e deploys na nuvem (Render, Vercel, Railway,
-GitHub Actions/GitLab CI).
+Especialista em bancos relacionais (PostgreSQL + Alembic), pagamentos via Pix
+(BR Code e Mercado Pago), autenticação (JWT, `initData` do Telegram), Docker e
+CI/CD (GitHub Actions, GitLab CI, Render, Vercel, Railway).
 
-Desenvolvo projetos de ponta a ponta: modelagem de dados, API, lógica de
-negócio, frontend, testes automatizados e deploy. Gosto de transformar
-problemas reais em soluções completas, do banco de dados à interface final.
+Minha força é transformar problemas reais em soluções completas e funcionais,
+de ponta a ponta — como mostram os projetos abaixo.
 
 ## Tecnologias
 
@@ -24,11 +22,13 @@ problemas reais em soluções completas, do banco de dados à interface final.
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![aiohttp](https://img.shields.io/badge/aiohttp-2C5BB4?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![CustomTkinter](https://img.shields.io/badge/CustomTkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
@@ -42,12 +42,13 @@ problemas reais em soluções completas, do banco de dados à interface final.
 
 </div>
 
-## Projetos em destaque
+## Projetos
 
 ### Bots e automações
 - **Bot de pedidos para pastelaria** — Bot do Telegram + Mini App (HTML/CSS/JS):
-  cardápio, carrinho, pagamento Pix (BR Code e Mercado Pago), promoções e painel
-  de gestão do dono. Python + aiohttp + PostgreSQL + Alembic.
+  cardápio, carrinho, pagamento Pix (BR Code e Mercado Pago), promoções com
+  publicação automática no canal e painel de gestão do dono.
+  Python + aiohttp + PostgreSQL + Alembic.
   <br>📦 [github.com/zthiagoferr/pastelaria-bot](https://github.com/zthiagoferr/pastelaria-bot)
 
 ### APIs REST
