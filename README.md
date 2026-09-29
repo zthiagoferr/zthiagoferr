@@ -55,6 +55,33 @@ funcione em produção — não só que "rode na minha máquina".
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 ---
+## 📄 Portfólio profissional — Python, backend, automação e agentes de IA
+** Portfólio — Landing Page Profissional
+
+Landing page / portfólio pessoal estático, preparada para publicação em GitHub Pages e GitLab Pages.
+
+Foco: desenvolvimento com Python, backend e APIs, agentes de IA (arquitetura multiagente, Skills, MCP, agentes especializados e Orquestrador), frontend e interfaces e DevOps e ferramentas.
+Seções da página
+
+- Início / Hero — chamada inicial com tecnologias e áreas de atuação.
+- Sobre — apresentação profissional curta, baseada nos conhecimentos e projetos do portfólio.
+- Competências — quatro pilares: Backend & APIs, Agentes de IA & Automação, Frontend & Interfaces e DevOps & Ferramentas; Arduino aparece como conhecimento complementar.
+- Agentes de IA — ambiente multiagente (Orquestrador, Analista, Arquiteto, Engenheiro, Revisor e Pesquisador) e destaques.
+- Certificações e Formação — três certificados concluídos (SENAI) e um curso em andamento.
+- Projetos — três projetos reais com repositórios no GitHub.
+- Contato — e-mail, GitHub, GitLab e LinkedIn.
+
+## Conteúdo
+## Todo o conteúdo da página está preenchido:
+
+- Sobre — apresentação profissional curta (sem placeholder).
+- Projetos — três projetos reais, com descrição e repositórios no GitHub:
+- Casa do Pastel Judá — Bot de Pedidos → https://github.com/zthiagoferr/pastelaria-bot
+- URL Shortener API → https://github.com/zthiagoferr/url-shortener
+- DevShowcase → https://github.com/zthiagoferr/devshowcase
+- Contato — e-mail, GitHub, GitLab e LinkedIn preenchidos com os dados reais.
+
+→ https://github.com/zthiagoferr/portfolio#portf%C3%B3lio--landing-page-profissional
 
 ## 📁 Projetos
 
