@@ -56,12 +56,14 @@ funcione em produção — não só que "rode na minha máquina".
 
 ---
 ## 📄 Portfólio profissional — Python, backend, automação e agentes de IA
-** Portfólio — Landing Page Profissional
 
-Landing page / portfólio pessoal estático, preparada para publicação em GitHub Pages e GitLab Pages.
+## Portfólio — Landing Page Profissional
 
-Foco: desenvolvimento com Python, backend e APIs, agentes de IA (arquitetura multiagente, Skills, MCP, agentes especializados e Orquestrador), frontend e interfaces e DevOps e ferramentas.
-Seções da página
+## Landing page / portfólio pessoal estático, preparada para publicação em GitHub Pages e GitLab Pages.
+
+- Foco: desenvolvimento com Python, backend e APIs, agentes de IA (arquitetura multiagente, Skills, MCP, agentes especializados e Orquestrador), frontend e interfaces e DevOps e ferramentas.
+
+## Seções da página
 
 - Início / Hero — chamada inicial com tecnologias e áreas de atuação.
 - Sobre — apresentação profissional curta, baseada nos conhecimentos e projetos do portfólio.
