@@ -83,7 +83,7 @@ funcione em produção — não só que "rode na minha máquina".
 - DevShowcase → https://github.com/zthiagoferr/devshowcase
 - Contato — e-mail, GitHub, GitLab e LinkedIn preenchidos com os dados reais.
 
-→ https://github.com/zthiagoferr/portfolio#portf%C3%B3lio--landing-page-profissional
+- Portifólio → https://github.com/zthiagoferr/portfolio#portf%C3%B3lio--landing-page-profissional
 
 ## 📁 Projetos
 
