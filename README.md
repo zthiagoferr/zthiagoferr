@@ -55,84 +55,172 @@ funcione em produção — não só que "rode na minha máquina".
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 ---
-## 📄 Portfólio profissional — Python, backend, automação e agentes de IA
+# 👨‍💻 Portfólio profissional — Python, Backend, Automação e Agentes de IA
 
-- Portfólio — Landing Page Profissional
+Desenvolvimento de soluções com **Python, FastAPI, APIs REST, automação, inteligência artificial e arquitetura multiagente**, com foco em aplicações reais, qualidade de código, integração de sistemas e implantação em nuvem.
 
-- Landing page / portfólio pessoal estático, preparada para publicação em GitHub Pages e GitLab Pages.
+## 🌟 Projeto principal — DevPilot AI
 
-- Foco: desenvolvimento com Python, backend e APIs, agentes de IA (arquitetura multiagente, Skills, MCP, agentes especializados e Orquestrador), frontend e interfaces e DevOps e ferramentas.
+### 🤖 DevPilot AI — Plataforma de análise e revisão de código
 
-## Seções da página
+**Meu principal projeto de desenvolvimento de software.**
 
-- Início / Hero — chamada inicial com tecnologias e áreas de atuação.
-- Sobre — apresentação profissional curta, baseada nos conhecimentos e projetos do portfólio.
-- Competências — quatro pilares: Backend & APIs, Agentes de IA & Automação, Frontend & Interfaces e DevOps & Ferramentas; Arduino aparece como conhecimento complementar.
-- Agentes de IA — ambiente multiagente (Orquestrador, Analista, Arquiteto, Engenheiro, Revisor e Pesquisador) e destaques.
-- Certificações e Formação — três certificados concluídos (SENAI) e um curso em andamento.
-- Projetos — três projetos reais com repositórios no GitHub.
-- Contato — e-mail, GitHub, GitLab e LinkedIn.
+O **DevPilot AI** é uma plataforma web para análise e revisão de código Python, desenvolvida para auxiliar programadores na identificação de erros, problemas de qualidade e oportunidades de melhoria.
 
-## Conteúdo
-## Todo o conteúdo da página está preenchido:
+O projeto reúne conhecimentos de **backend, frontend, APIs, banco de dados, testes automatizados e DevOps**, com uma arquitetura preparada para evolução e integração com ferramentas de desenvolvimento.
 
-- Sobre — apresentação profissional curta (sem placeholder).
-- Projetos — três projetos reais, com descrição e repositórios no GitHub:
-- Casa do Pastel Judá — Bot de Pedidos → https://github.com/zthiagoferr/pastelaria-bot
-- URL Shortener API → https://github.com/zthiagoferr/url-shortener
-- DevShowcase → https://github.com/zthiagoferr/devshowcase
-- Contato — e-mail, GitHub, GitLab e LinkedIn preenchidos com os dados reais.
+**Principais funcionalidades:**
+- Análise de código Python enviado diretamente pela interface.
+- Identificação de erros de sintaxe e problemas no código.
+- Integração com repositórios públicos do GitHub para seleção e análise de arquivos.
+- Histórico persistente de análises.
+- Dashboard com indicadores, pontuação e detalhes das revisões.
+- Verificação de disponibilidade e prontidão dos serviços.
+- Interface responsiva com recursos de acessibilidade.
 
-- Portifólio → https://github.com/zthiagoferr/portfolio#portf%C3%B3lio--landing-page-profissional
+**Tecnologias e arquitetura:**
+- **Backend:** Python, FastAPI e SQLAlchemy.
+- **Banco de dados:** PostgreSQL hospedado no Neon.
+- **Frontend:** HTML, CSS e JavaScript.
+- **Migrações:** Alembic.
+- **Infraestrutura:** Render e GitHub Pages.
+- **Versionamento e CI/CD:** Git, GitHub e GitHub Actions.
+- **Qualidade:** Pytest, testes de integração e testes de interface com Playwright.
 
-## 📁 Projetos
+**Destaques técnicos:**
+- API REST hospedada em ambiente de produção.
+- Persistência de resultados no PostgreSQL.
+- Separação entre frontend e backend.
+- Publicação automatizada do dashboard.
+- Desenvolvimento orientado a testes e revisão de código.
+- Correções e melhorias realizadas com apoio de agentes especializados de IA.
+
+**Acesse o projeto:**
+
+🔗 [Repositório DevPilot AI](https://github.com/zthiagoferr/devpilot-ai)
+
+🌐 [Dashboard online — DevPilot AI](https://zthiagoferr.github.io/devpilot-ai/)
+
+---
+
+## 📄 Portfólio — Landing Page Profissional
+
+Landing page pessoal estática, preparada para publicação no GitHub Pages e GitLab Pages.
+
+O portfólio apresenta minha trajetória de desenvolvimento, conhecimentos técnicos, certificações e projetos.
+
+**Áreas de atuação:**
+- Python, backend e APIs REST.
+- Agentes de IA e automação.
+- Arquitetura multiagente, Skills, MCP e orquestração.
+- Frontend e desenvolvimento de interfaces.
+- DevOps, testes e ferramentas de desenvolvimento.
+
+### Seções do portfólio
+
+- **Início:** apresentação profissional e tecnologias.
+- **Sobre:** conhecimentos e experiência com projetos.
+- **Competências:** Backend & APIs, Agentes de IA & Automação, Frontend & Interfaces e DevOps & Ferramentas.
+- **Agentes de IA:** Orquestrador, Analista, Arquiteto, Engenheiro, Revisor e Pesquisador.
+- **Certificações e Formação:** três certificados SENAI concluídos e um curso em andamento.
+- **Projetos:** aplicações reais com código disponível no GitHub.
+- **Contato:** GitHub, GitLab, LinkedIn e e-mail.
+
+🔗 [Repositório do portfólio](https://github.com/zthiagoferr/portfolio)
+
+---
+
+## 📁 Outros projetos
 
 ### 🤖 Bots e automações
 
-**Bot de pedidos para pastelaria** — sistema completo de vendas pelo Telegram.
-- Bot conversacional (cardápio → carrinho → checkout → acompanhamento)
-- Mini App em HTML/CSS/JS integrado ao bot
-- Pagamento via Pix (BR Code/EMV) e Mercado Pago
-- Promoções com publicação automática no canal
-- Painel de gestão para o dono (pedidos, promoções, taxas, estoque)
-- PostgreSQL + migrações Alembic · testes automatizados · deploy no Render
+**Casa do Pastel Judá — Bot de Pedidos**
 
-→ [github.com/zthiagoferr/pastelaria-bot](https://github.com/zthiagoferr/pastelaria-bot)
+Sistema de vendas e atendimento automatizado pelo Telegram.
 
-### 🚀 APIs REST
+- Fluxo conversacional: cardápio, carrinho, checkout e acompanhamento.
+- Mini App desenvolvido em HTML, CSS e JavaScript.
+- Pagamentos via Pix e Mercado Pago.
+- Promoções com publicação automática.
+- Painel administrativo para gerenciamento de pedidos, promoções, taxas e estoque.
+- PostgreSQL, Alembic, testes automatizados e deploy no Render.
 
-**Dev Showcase** — portfólio de desenvolvedor com CRUD completo.
-- API REST em FastAPI + frontend React
-- Deploy no Render e Vercel
+🔗 [github.com/zthiagoferr/pastelaria-bot](https://github.com/zthiagoferr/pastelaria-bot)
 
-→ [github.com/zthiagoferr/devshowcase](https://github.com/zthiagoferr/devshowcase)
+### 🚀 APIs REST e aplicações
 
-**Task Manager API** — gerenciador de tarefas.
-- API em FastAPI com autenticação JWT
-- App desktop em CustomTkinter consumindo a API
-- Docker + deploy no Railway
+**DevShowcase — Portfólio de desenvolvedor**
 
-→ [github.com/zthiagoferr/task-manager-api](https://github.com/zthiagoferr/task-manager-api)
+- API REST em FastAPI.
+- Frontend em React.
+- Operações CRUD.
+- Deploy no Render e Vercel.
 
-**URL Shortener** — encurtador de URLs.
-- Redirecionamento e rastreamento de cliques
-- FastAPI + SQLAlchemy (async) + SQLite + Alembic + Docker
+🔗 [github.com/zthiagoferr/devshowcase](https://github.com/zthiagoferr/devshowcase)
 
-→ [github.com/zthiagoferr/url-shortener](https://github.com/zthiagoferr/url-shortener)
+**Task Manager API — Gerenciador de tarefas**
 
-**Notification Service** — serviço de notificações multi-canal assíncrono.
-- Notificações in-app, e-mail e push via WebSocket
-- Monitor de preços e integração com bot do Telegram
+- API FastAPI com autenticação JWT.
+- Aplicativo desktop desenvolvido com CustomTkinter.
+- Docker e deploy no Railway.
 
-→ [github.com/zthiagoferr/notification-service](https://github.com/zthiagoferr/notification-service)
+🔗 [github.com/zthiagoferr/task-manager-api](https://github.com/zthiagoferr/task-manager-api)
 
-### 📚 Estudos
+**URL Shortener — Encurtador de URLs**
 
-**Estudos em Python** — jornada de aprendizado em 10 fases, do básico às APIs
-REST, com explicações em português, exercícios e código comentado.
+- Encurtamento e redirecionamento de URLs.
+- Rastreamento de cliques.
+- FastAPI, SQLAlchemy assíncrono, SQLite, Alembic e Docker.
 
-→ [github.com/zthiagoferr/estudos](https://github.com/zthiagoferr/estudos)
+🔗 [github.com/zthiagoferr/url-shortener](https://github.com/zthiagoferr/url-shortener)
 
+**Notification Service — Serviço de notificações**
+
+- Notificações in-app, e-mail e push.
+- Comunicação em tempo real via WebSocket.
+- Monitoramento de preços.
+- Integração com bot do Telegram.
+
+🔗 [github.com/zthiagoferr/notification-service](https://github.com/zthiagoferr/notification-service)
+
+### 📚 Estudos e formação
+
+**Estudos em Python**
+
+Jornada de aprendizado estruturada em 10 fases, desde os fundamentos da linguagem até o desenvolvimento de APIs REST.
+
+- Explicações em português.
+- Exercícios práticos.
+- Código comentado.
+- Evolução progressiva dos conceitos.
+
+🔗 [github.com/zthiagoferr/estudos](https://github.com/zthiagoferr/estudos)
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+**Linguagens:** Python, JavaScript, HTML e CSS.
+
+**Backend:** FastAPI, APIs REST, SQLAlchemy e autenticação JWT.
+
+**Banco de dados:** PostgreSQL, Neon e SQLite.
+
+**Frontend:** React e JavaScript.
+
+**IA e automação:** agentes especializados, arquitetura multiagente, MCP, Skills e orquestração.
+
+**DevOps:** Git, GitHub Actions, Docker, Render, Railway, Vercel e GitHub Pages.
+
+**Qualidade:** Pytest, Playwright e testes automatizados.
+
+---
+
+## 🎯 Foco profissional
+
+Desenvolver soluções que combinem **engenharia de software, automação e inteligência artificial**, com atenção à qualidade, organização do código, testes, segurança e aplicações práticas.
+
+O **DevPilot AI** representa atualmente o principal projeto desse desenvolvimento, reunindo diferentes áreas da engenharia de software em uma plataforma funcional e em evolução.
 ---
 
 ## 💡 Experiência
