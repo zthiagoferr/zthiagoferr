@@ -198,54 +198,6 @@ Jornada de aprendizado estruturada em 10 fases, desde os fundamentos da linguage
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
-
-**Linguagens:** Python, JavaScript, HTML e CSS.
-
-**Backend:** FastAPI, APIs REST, SQLAlchemy e autenticação JWT.
-
-**Banco de dados:** PostgreSQL, Neon e SQLite.
-
-**Frontend:** React e JavaScript.
-
-**IA e automação:** agentes especializados, arquitetura multiagente, MCP, Skills e orquestração.
-
-**DevOps:** Git, GitHub Actions, Docker, Render, Railway, Vercel e GitHub Pages.
-
-**Qualidade:** Pytest, Playwright e testes automatizados.
-
----
-
-## 🎯 Foco profissional
-
-Desenvolver soluções que combinem **engenharia de software, automação e inteligência artificial**, com atenção à qualidade, organização do código, testes, segurança e aplicações práticas.
-
-O **DevPilot AI** representa atualmente o principal projeto desse desenvolvimento, reunindo diferentes áreas da engenharia de software em uma plataforma funcional e em evolução.
----
-
-## 💡 Experiência
-
-### Backend
-- Bots no Telegram com fluxos conversacionais completos
-- API REST (FastAPI e aiohttp) com autenticação (JWT, `initData` do Telegram)
-- Pagamento Pix: implementação BR Code/EMV e integração com Mercado Pago
-- Modelagem de banco PostgreSQL com migrações Alembic
-- Padrões assíncronos: WebSocket, filas e scraping em serviços de notificação
-
-### Frontend
-- Mini Apps do Telegram (HTML, CSS, JavaScript) integrados à API
-- Interfaces em React (CRUD completo) e apps desktop (CustomTkinter)
-- Interface de cardápio com busca, carrinho persistido, cupom e checkout
-- Painel administrativo com gestão de pedidos, promoções e taxas
-
-### Infraestrutura
-- Deploy e CI/CD (GitHub Actions, GitLab CI, Render, Vercel, Railway)
-- Docker e containerização de serviços
-- Linux/Manjaro como ambiente de desenvolvimento diário
-- Versionamento com Git (GitHub e GitLab)
-
----
-
 ## 📊 Estatísticas
 
 <div align="center">
