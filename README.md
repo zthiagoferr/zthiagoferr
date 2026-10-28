@@ -1,102 +1,90 @@
-👋🏻 Olá! Sou Thiago Ferreira
+ <div align="center">
 
-Desenvolvedor Python | Backend, APIs REST, Automação e Agentes de IA
+Desenvolvedor Python | Backend • Automação • Inteligência Artificial
 
-Desenvolvo aplicações com Python, APIs REST, bancos de dados e automações, buscando transformar problemas reais em soluções funcionais, organizadas e testáveis.
+Construindo aplicações, APIs e ferramentas que resolvem problemas reais.
 
-Tenho interesse em arquitetura de software, qualidade de código, integração de sistemas e desenvolvimento de agentes de IA.
+</div>
 
-* 🔭 Desenvolvendo aplicações backend, APIs e sistemas de automação.
-* 🌱 Aprofundando meus conhecimentos em arquitetura de software e qualidade de código.
-* 🤖 Explorando sistemas multiagente, orquestração e integração com ferramentas de IA.
-* 💡 Valorizo código legível, testes automatizados e documentação clara.
+⸻
 
-🛠️ Tecnologias
+👋🏻 Sobre mim
 
-Backend: Python, FastAPI, aiohttp, SQLAlchemy, PostgreSQL, SQLite, Alembic, JWT.
+Sou desenvolvedor Python com foco em backend, APIs REST, automação e arquitetura de software. Desenvolvo projetos que integram lógica de negócio, bancos de dados, interfaces e serviços externos.
 
-Frontend: HTML5, CSS3, JavaScript, TypeScript, React, CustomTkinter.
+Tenho interesse especial em qualidade de código, testes automatizados, integração de sistemas e desenvolvimento de agentes de Inteligência Artificial.
 
-DevOps e ferramentas: Docker, Linux, Git, GitHub, GitLab, GitHub Actions, Render, Postman.
+* 🐍 Desenvolvimento backend com Python e FastAPI.
+* 🧠 Estudo de agentes de IA, arquitetura multiagente e orquestração.
+* 🗄️ Desenvolvimento de aplicações com bancos de dados relacionais.
+* 🧪 Interesse em testes automatizados, código legível e documentação técnica.
+* 🚀 Evolução contínua por meio de projetos práticos.
 
-Testes: Pytest, testes de integração e Playwright.
+🛠️ Stack tecnológica
 
-🚀 Projeto em destaque
+Backend e dados
 
-🤖 DevPilot AI — Análise e revisão de código
+Frontend
 
-Plataforma web para análise de código Python, com foco na identificação de erros, avaliação de qualidade e apresentação de oportunidades de melhoria.
+Infraestrutura e qualidade
 
-Principais recursos
+⸻
+
+🌟 Projeto em destaque
+
+<div align="center">
+
+🤖 DevPilot AI
+
+Plataforma de análise e revisão de código Python
+
+Uma aplicação voltada à análise de código, identificação de problemas e apresentação de oportunidades de melhoria, reunindo conhecimentos de backend, integração de sistemas, testes e arquitetura multiagente.
+
+</div>
+
+Principais recursos do projeto
 
 * Análise de código Python pela interface web.
 * Integração com repositórios públicos do GitHub.
-* Histórico persistente de análises.
-* Dashboard com indicadores e resultados.
-* API REST com FastAPI.
-* Testes automatizados e pipeline de integração contínua.
+* Histórico de análises com persistência de dados.
+* Dashboard para apresentação dos resultados.
+* API REST desenvolvida com FastAPI.
+* Testes automatizados e ferramentas de qualidade.
 
-Tecnologias: Python, FastAPI, SQLAlchemy, PostgreSQL, Alembic, HTML, CSS, JavaScript, Pytest e GitHub Actions.
+Tecnologias: Python, FastAPI, SQLAlchemy, PostgreSQL, Alembic, HTML, CSS, JavaScript, Pytest e Playwright.
 
-🔗 Repositório do DevPilot AI
-
-🌐 Dashboard online
+⸻
 
 📂 Outros projetos
 
-🤖 Casa do Pastel Judá — Bot de pedidos
+Projeto	Descrição	Tecnologias principais
+Casa do Pastel Judá	Bot de pedidos pelo Telegram, com checkout e painel administrativo.	Python, PostgreSQL
+DevShowcase	Portfólio com API REST e interface web.	FastAPI, React
+Task Manager API	Gerenciador de tarefas com autenticação e aplicação desktop.	FastAPI, JWT, CustomTkinter
+URL Shortener	Encurtamento de URLs e rastreamento de cliques.	FastAPI, SQLAlchemy, SQLite
+Notification Service	Serviço de notificações e comunicação em tempo real.	Python, WebSocket
+Estudos em Python	Estudos progressivos, exercícios e exemplos comentados.	Python
 
-Sistema de atendimento e gerenciamento de pedidos pelo Telegram, com fluxo conversacional, carrinho, checkout, integração de pagamentos e painel administrativo.
+⸻
 
-Tecnologias: Python, PostgreSQL, Alembic e testes automatizados.
+🎓 Formação
 
-🔗 Repositório
+Cursos concluídos no SENAI:
 
-🚀 DevShowcase — Portfólio de desenvolvedor
+* Lógica de Programação com Arduino.
+* Fundamentos do Python 1.
+* Programação em Python.
 
-Aplicação com API REST, operações CRUD e interface desenvolvida com React.
+Atualmente, aprofundando conhecimentos em Inteligência Artificial Generativa aplicada à programação.
 
-Tecnologias: FastAPI, React, Render e Vercel.
+⸻
 
-🔗 Repositório
+📫 Contato
 
-✅ Task Manager API — Gerenciador de tarefas
+<div align="center">
+</div>
+<div align="center">
 
-Projeto de gerenciamento de tarefas com autenticação JWT e aplicação desktop.
+Aprendendo continuamente. Construindo soluções. Evoluindo como desenvolvedor.
 
-Tecnologias: FastAPI, CustomTkinter e Docker.
-
-🔗 Repositório
-
-🔗 URL Shortener — Encurtador de URLs
-
-Serviço de encurtamento e redirecionamento de URLs, com rastreamento de cliques.
-
-Tecnologias: FastAPI, SQLAlchemy assíncrono, SQLite, Alembic e Docker.
-
-🔗 Repositório
-
-🔔 Notification Service — Serviço de notificações
-
-Projeto de notificações por diferentes canais, comunicação em tempo real e integração com bot do Telegram.
-
-Tecnologias: Python, WebSocket e integração com serviços externos.
-
-🔗 Repositório
-
-📚 Estudos e formação
-
-Python — Estudos práticos
-
-Repositório de estudos organizado em etapas progressivas, com explicações em português, exercícios e exemplos de código.
-
-🔗 Repositório de estudos
-
-Formação: cursos concluídos no SENAI em Lógica de Programação com Arduino, Fundamentos do Python 1 e Programação em Python.
-
-📫 Contato e redes
-
-* 💻 GitHub
-* 🌐 Portfólio e projetos
-
-Para adicionar outras redes profissionais, inclua os links diretos do LinkedIn, GitLab e e-mail que você utiliza.
+</div>
