@@ -1,6 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 300" role="img" aria-label="Terminal animado mostrando Thiago como desenvolvedor Full Stack">
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#000000"/><stop offset="1" stop-color="#000000"/></linearGradient><style>.m{font-family:'DejaVu Sans Mono',monospace;font-size:21px}.mut{fill:#919191}.green{fill:#FFFFFF}.light{fill:#FFFFFF}.cursor{animation:blink 1s steps(1) infinite}.line1{animation:appear 6s steps(1) infinite}.line2{animation:appear2 6s steps(1) infinite}.line3{animation:appear3 6s steps(1) infinite}@keyframes blink{50%{opacity:0}}@keyframes appear{0%,10%{opacity:0}11%,100%{opacity:1}}@keyframes appear2{0%,36%{opacity:0}37%,100%{opacity:1}}@keyframes appear3{0%,65%{opacity:0}66%,100%{opacity:1}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style></defs>
-<rect width="1080" height="300" rx="18" fill="url(#bg)" stroke="#303030" stroke-width="3"/>
-<path d="M0 55H1080" stroke="#303030"/><circle cx="29" cy="27" r="8" fill="#E0E0E0"/><circle cx="57" cy="27" r="8" fill="#929292"/><circle cx="85" cy="27" r="8" fill="#555555"/><text x="540" y="34" font-family="monospace" font-size="17" fill="#919191" text-anchor="middle">thiago@dev:~/workspace</text>
-<g class="m"><text x="35" y="97" class="green">thiago@dev</text><text x="175" y="97" class="mut">:~$</text><text x="236" y="97" class="light">cat about.json</text>
-<g class="line1"><text x="35" y="139" class="mut">{</text><text x="65" y="171" class="light">"perfil": <tspan class="green">"Desenvolvedor Full Stack"</tspan>,</text><text x="65" y="203" class="light">"frontend": <tspan class="green">["Angular", "React", "TypeScript"]</tspan>,</text><text x="65" y="235" class="light">"backend": <tspan class="green">["Python", "FastAPI", "PostgreSQL"]</tspan></text><text x="35" y="267" class="mut">}</text></g><rect class="cursor line3" x="63" y="249" width="13" height="22" fill="#FFFFFF"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="390" viewBox="0 0 1080 390" role="img" aria-label="Terminal animado de Thiago Ferreira de Oliveira, desenvolvedor Full Stack. Digitação de comandos, cursor piscando e brilho em movimento.">
+<defs>
+ <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".18"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+ <clipPath id="content-clip"><rect x="18" y="66" width="1044" height="300" rx="4"/></clipPath>
+ <pattern id="microgrid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#fff" stroke-opacity=".025" stroke-width="1"/></pattern>
+</defs>
+<rect x="2" y="2" width="1076" height="386" rx="17" fill="#000" stroke="#666" stroke-width="2"/>
+<rect x="3" y="3" width="1074" height="51" rx="15" fill="#0b0b0b"/>
+<path d="M3 55H1077" stroke="#555" stroke-width="1"/>
+<circle cx="29" cy="28" r="7" fill="#fff"/><circle cx="54" cy="28" r="7" fill="#a8a8a8"/><circle cx="79" cy="28" r="7" fill="#555"/>
+<text x="540" y="34" font-family="monospace" font-size="17" fill="#aaa" text-anchor="middle">thiago@dev : ~/workspace</text>
+<rect x="19" y="65" width="1042" height="303" fill="url(#microgrid)"/>
+<g clip-path="url(#content-clip)">
+ <rect x="-300" y="68" width="180" height="298" fill="url(#shine)" opacity=".75"><animate attributeName="x" values="-300;1180" dur="8s" repeatCount="indefinite"/></rect>
+
+<clipPath id="clip0"><rect x="36" y="86" width="0" height="32"><animate attributeName="width" values="0;0;260;260" keyTimes="0;0.0000;0.2500;1" dur="8s" calcMode="linear" repeatCount="indefinite"/></rect></clipPath>
+<g clip-path="url(#clip0)"><text x="36" y="110" fill="#fff" font-family="DejaVu Sans Mono,monospace" font-size="19" xml:space="preserve">thiago@dev:~$ whoami</text></g>
+<rect x="36" y="90" width="10" height="23" fill="#fff" opacity="0"><animate attributeName="x" values="36;36;296;296" keyTimes="0;0.0000;0.2500;1" dur="8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;0;1;0;0" keyTimes="0;0.0000;0.0187;0.0437;0.0625;0.2500;1" dur="8s" repeatCount="indefinite"/></rect>
+<clipPath id="clip1"><rect x="36" y="124" width="0" height="32"><animate attributeName="width" values="0;0;377;377" keyTimes="0;0.1000;0.4000;1" dur="8s" calcMode="linear" repeatCount="indefinite"/></rect></clipPath>
+<g clip-path="url(#clip1)"><text x="36" y="148" fill="#fff" font-family="DejaVu Sans Mono,monospace" font-size="19" xml:space="preserve">&gt; Thiago Ferreira de Oliveira</text></g>
+<rect x="36" y="128" width="10" height="23" fill="#fff" opacity="0"><animate attributeName="x" values="36;36;413;413" keyTimes="0;0.1000;0.4000;1" dur="8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;0;1;0;0" keyTimes="0;0.1000;0.1188;0.1437;0.1625;0.4000;1" dur="8s" repeatCount="indefinite"/></rect>
+<clipPath id="clip2"><rect x="36" y="172" width="0" height="32"><animate attributeName="width" values="0;0;364;364" keyTimes="0;0.2875;0.4875;1" dur="8s" calcMode="linear" repeatCount="indefinite"/></rect></clipPath>
+<g clip-path="url(#clip2)"><text x="36" y="196" fill="#fff" font-family="DejaVu Sans Mono,monospace" font-size="19" xml:space="preserve">thiago@dev:~$ cat stack.json</text></g>
+<rect x="36" y="176" width="10" height="23" fill="#fff" opacity="0"><animate attributeName="x" values="36;36;400;400" keyTimes="0;0.2875;0.4875;1" dur="8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;0;1;0;0" keyTimes="0;0.2875;0.3062;0.3312;0.3500;0.4875;1" dur="8s" repeatCount="indefinite"/></rect>
+<clipPath id="clip3"><rect x="36" y="209" width="0" height="32"><animate attributeName="width" values="0;0;13;13" keyTimes="0;0.4625;0.5250;1" dur="8s" calcMode="linear" repeatCount="indefinite"/></rect></clipPath>
+<g clip-path="url(#clip3)"><text x="36" y="233" fill="#fff" font-family="DejaVu Sans Mono,monospace" font-size="19" xml:space="preserve">{</text></g>
+<rect x="36" y="213" width="10" height="23" fill="#fff" opacity="0"><animate attributeName="x" values="36;36;49;49" keyTimes="0;0.4625;0.5250;1" dur="8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;0;1;0;0" keyTimes="0;0.4625;0.4813;0.5062;0.5250;0.5250;1" dur="8s" repeatCount="indefinite"/></rect>
+<clipPath id="clip4"><rect x="36" y="239" width="0" height="32"><animate attributeName="width" values="0;0;429;429" keyTimes="0;0.5000;0.6125;1" dur="8s" calcMode="linear" repeatCount="indefinite"/></rect></clipPath>
+<g clip-path="url(#clip4)"><text x="36" y="263" fill="#fff" font-family="DejaVu Sans Mono,monospace" font-size="19" xml:space="preserve">  "role": "Full Stack Developer",</text></g>
+<rect x="36" y="243" width="10" height="23" fill="#fff" opacity="0"><animate attributeName="x" values="36;36;465;465" keyTimes="0;0.5000;0.6125;1" dur="8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;0;1;0;0" keyTimes="0;0.5000;0.5188;0.5437;0.5625;0.6125;1" dur="8s" repeatCount="indefinite"/></rect>
+<clipPath id="clip5"><rect x="36" y="269" width="0" height="32"><animate attributeName="width" values="0;0;637;637" keyTimes="0;0.5687;0.6875;1" dur="8s" calcMode="linear" repeatCount="indefinite"/></rect></clipPath>
+<g clip-path="url(#clip5)"><text x="36" y="293" fill="#fff" font-family="DejaVu Sans Mono,monospace" font-size="19" xml:space="preserve">  "frontend": ["Angular", "React", "TypeScript"],</text></g>
+<rect x="36" y="273" width="10" height="23" fill="#fff" opacity="0"><animate attributeName="x" values="36;36;673;673" keyTimes="0;0.5687;0.6875;1" dur="8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;0;1;0;0" keyTimes="0;0.5687;0.5875;0.6125;0.6312;0.6875;1" dur="8s" repeatCount="indefinite"/></rect>
+<clipPath id="clip6"><rect x="36" y="299" width="0" height="32"><animate attributeName="width" values="0;0;624;624" keyTimes="0;0.6375;0.7875;1" dur="8s" calcMode="linear" repeatCount="indefinite"/></rect></clipPath>
+<g clip-path="url(#clip6)"><text x="36" y="323" fill="#fff" font-family="DejaVu Sans Mono,monospace" font-size="19" xml:space="preserve">  "backend": ["Python", "FastAPI", "PostgreSQL"]</text></g>
+<rect x="36" y="303" width="10" height="23" fill="#fff" opacity="0"><animate attributeName="x" values="36;36;660;660" keyTimes="0;0.6375;0.7875;1" dur="8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;0;1;0;0" keyTimes="0;0.6375;0.6562;0.6812;0.7000;0.7875;1" dur="8s" repeatCount="indefinite"/></rect>
+<text x="36" y="358" fill="#999" font-family="DejaVu Sans Mono,monospace" font-size="17">}</text>
+<rect x="63" y="337" width="11" height="23" fill="#fff"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;.45;.52;.61;1" dur=".85s" repeatCount="indefinite"/></rect>
+</g>
+<rect x="20" y="375" width="1040" height="2" fill="#242424"/>
+<rect x="20" y="375" width="160" height="2" fill="#fff"><animate attributeName="x" values="-160;1080" dur="8s" repeatCount="indefinite"/></rect>
+</svg>
