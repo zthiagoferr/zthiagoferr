@@ -6,7 +6,7 @@
  <clipPath id="frame"><rect x="1" y="1" width="1198" height="358" rx="22"/></clipPath>
  <style>
  .mono{font-family:'DejaVu Sans Mono',monospace}.label{font-size:16px;letter-spacing:3px;fill:#919191}.name{font-family:'DejaVu Sans',sans-serif;font-weight:800;font-size:58px;fill:#FFFFFF}.role{font-size:22px;fill:#FFFFFF}.small{font-size:14px;fill:#919191}
- .pulse{animation:pulse 3.5s ease-in-out infinite}.float{animation:float 5s ease-in-out infinite}.blink{animation:blink 1s steps(1) infinite}.scan{animation:scan 9s linear infinite}.orbit{transform-origin:990px 180px;animation:spin 24s linear infinite}.dash{stroke-dasharray:11 17;animation:dash 6s linear infinite}
+ .pulse{animation:pulse 3.5s ease-in-out infinite}.float{animation:float 3s ease-in-out infinite}.blink{animation:blink 1s steps(1) infinite}.scan{animation:scan 4s linear infinite}.orbit{transform-origin:990px 180px;animation:spin 12s linear infinite}.dash{stroke-dasharray:11 17;animation:dash 3s linear infinite}
  @keyframes pulse{50%{opacity:.35}}@keyframes float{50%{transform:translateY(-9px)}}@keyframes blink{50%{opacity:0}}@keyframes scan{from{transform:translateY(-50px)}to{transform:translateY(420px)}}@keyframes spin{to{transform:rotate(360deg)}}@keyframes dash{to{stroke-dashoffset:-112}}
  @media(prefers-reduced-motion:reduce){*{animation:none!important}}
  </style>

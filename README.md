@@ -4,7 +4,7 @@
 
 <br />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=850&lines=Desenvolvedor+Full+Stack;Frontend+%2B+Backend+%7C+Interfaces+%2B+APIs;React+%2B+TypeScript+%2B+Python+%2B+FastAPI;Do+design+da+interface+ao+deploy+em+produ%C3%A7%C3%A3o)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=850&lines=Desenvolvedor+Full+Stack;Frontend+%2B+Backend+%7C+Interfaces+%2B+APIs;Angular+%2B+React+%2B+Python+%2B+FastAPI;Do+design+da+interface+ao+deploy+em+produ%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-zthiagoferr-050505?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zthiagoferr)
 [![Portfolio](https://img.shields.io/badge/Portf%C3%B3lio-Reposit%C3%B3rio-050505?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/zthiagoferr/portfolio)
@@ -17,7 +17,7 @@
 
 ## `> whoami` 🧑‍💻
 
-Desenvolvedor **Full Stack**, criando soluções de ponta a ponta: **interfaces modernas e responsivas, aplicações web, APIs REST, automações, integrações, bancos de dados e deploy**. Trabalho com **React, TypeScript, JavaScript, Python e FastAPI**, conectando experiência do usuário, regras de negócio e infraestrutura. Meu foco é entregar software **bem estruturado, testado e documentado**.
+Desenvolvedor **Full Stack**, criando soluções de ponta a ponta: **interfaces modernas e responsivas, aplicações web, APIs REST, automações, integrações, bancos de dados e deploy**. Trabalho com **Angular, React, TypeScript, JavaScript, Python e FastAPI**, conectando experiência do usuário, regras de negócio e infraestrutura. Meu foco é entregar software **bem estruturado, testado e documentado**.
 
 <img src="./assets/terminal.svg" alt="Terminal personalizado com minhas áreas de atuação" width="100%" />
 
@@ -43,6 +43,8 @@ class Thiago:
 
 **Frontend & experiência do usuário**
 
+![Angular](https://img.shields.io/badge/Angular-050505?style=for-the-badge&logo=angular&logoColor=white)
+
 ![React](https://img.shields.io/badge/React-050505?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-050505?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript&logoColor=white)
@@ -51,6 +53,8 @@ class Thiago:
 ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-050505?style=for-the-badge)
 
 **Backend, APIs & dados**
+
+![Firebase](https://img.shields.io/badge/Firebase-050505?style=for-the-badge&logo=firebase&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-050505?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -78,43 +82,29 @@ class Thiago:
 
 ## `> featured_projects --production` 🚀
 
+<div align="center">
+<img src="./assets/projects.svg" width="100%" alt="Painel preto e branco com animações fluidas destacando DevPilot AI e SGA" />
+</div>
+
 ### 🤖 [DevPilot AI — Plataforma de análise e revisão de código](https://github.com/zthiagoferr/devpilot-ai)
 
-**Projeto principal.** Aplicação web que analisa código Python, destaca erros e oportunidades de melhoria, permite selecionar arquivos em repositórios públicos e mantém histórico de análises.
+Plataforma web que analisa código Python, identifica erros e oportunidades de melhoria, permite consultar arquivos de repositórios públicos e mantém histórico persistente de análises.
 
-`FastAPI` · `SQLAlchemy` · `PostgreSQL/Neon` · `Alembic` · `Pytest` · `Playwright` · `GitHub Actions` · `Render`
+`Python` · `FastAPI` · `SQLAlchemy` · `PostgreSQL` · `Alembic` · `Pytest` · `Playwright` · `GitHub Actions` · `Render`
 
-**Destaques:** API REST, dashboard, histórico persistente, testes automatizados, frontend separado do backend e deploy.
+[![Repositório](https://img.shields.io/badge/VER_REPOSITÓRIO-FFFFFF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/zthiagoferr/devpilot-ai)
+[![Demonstração](https://img.shields.io/badge/DEMO_ONLINE-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://zthiagoferr.github.io/devpilot-ai/)
 
-[![Ver código](https://img.shields.io/badge/EXPLORAR-C%C3%93DIGO-050505?style=for-the-badge&logo=github)](https://github.com/zthiagoferr/devpilot-ai)
-[![Demo](https://img.shields.io/badge/ABRIR-DEMO-050505?style=for-the-badge&logo=githubpages)](https://zthiagoferr.github.io/devpilot-ai/)
+### 🏢 [SGA — Sistema de Gestão de Ambientes](https://github.com/zthiagoferr/SGA)
 
-### 🥟 [Casa do Pastel Judá — Bot de pedidos](https://github.com/zthiagoferr/pastelaria-bot)
+Projeto colaborativo voltado à gestão de espaços para escolas, empresas e equipes. Desenvolvo o **frontend Angular e a integração com Firebase Authentication**. A aplicação inclui interface responsiva, gestão de ambientes, pessoas e reservas e alternância entre temas claro e escuro.
 
-Fluxo automatizado de vendas no Telegram com **cardápio, carrinho, checkout, Pix/Mercado Pago, promoções e painel administrativo**.
+`Angular 20` · `TypeScript` · `Firebase Authentication` · `Vercel` · `Python (API planejada)` · `PostgreSQL/Neon (integração planejada)`
 
-`Python` · `Telegram` · `PostgreSQL` · `Alembic` · `Render` · `HTML/CSS/JS`
+> Estado do projeto: autenticação Firebase disponível; os registros de gestão ainda ficam no navegador. A integração com a API e o banco de dados está prevista para uma próxima etapa.
 
-### 🌐 [DevShowcase — Aplicação Full Stack](https://github.com/zthiagoferr/devshowcase)
-
-API REST em FastAPI + interface React, CRUD e publicação em Render/Vercel.
-
-### 🔐 [Task Manager API](https://github.com/zthiagoferr/task-manager-api)
-
-Gerenciador de tarefas com autenticação JWT, aplicativo desktop CustomTkinter, Docker e deploy no Railway.
-
-<details>
-<summary><b>📦 Explorar outros projetos (clique para expandir)</b></summary>
-<br />
-
-| Projeto | O que demonstra |
-|:--|:--|
-| [🔗 URL Shortener](https://github.com/zthiagoferr/url-shortener) | Encurtamento, redirecionamento, métricas de cliques e API assíncrona. |
-| [🔔 Notification Service](https://github.com/zthiagoferr/notification-service) | Notificações por e-mail, push, in-app, WebSocket e integração com Telegram. |
-| [📄 Portfólio pessoal](https://github.com/zthiagoferr/portfolio) | Landing page, projetos, certificações e apresentação profissional. |
-| [📚 Estudos em Python](https://github.com/zthiagoferr/estudos) | Trilha em 10 fases, exemplos comentados e exercícios práticos. |
-
-</details>
+[![Repositório](https://img.shields.io/badge/VER_REPOSITÓRIO-FFFFFF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/zthiagoferr/SGA)
+[![Acessar SGA](https://img.shields.io/badge/ABRIR_SGA-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://sga-devpilot-ai.vercel.app/)
 
 ---
 
@@ -131,7 +121,7 @@ Gerenciador de tarefas com autenticação JWT, aplicativo desktop CustomTkinter,
 
 ## `> currently_building` 🧪
 
-- 🔭 Aplicações Full Stack, interfaces React, APIs REST e integrações com Python.
+- 🔭 Aplicações Full Stack, interfaces Angular/React, APIs REST e integrações com Python.
 - 🌱 Arquitetura Full Stack, experiência do usuário, engenharia de software e qualidade.
 - 🧠 Interesse em automação, agentes de IA e ferramentas para desenvolvedores.
 - 🎯 Objetivo: construir produtos que resolvam problemas concretos e sejam fáceis de evoluir.

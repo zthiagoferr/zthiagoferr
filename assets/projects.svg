@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" role="img" aria-label="DevPilot AI e SGA, projetos em destaque">
+<defs>
+ <linearGradient id="shine" x1="0" x2="1"><stop stop-color="#000" stop-opacity="0"/><stop offset=".48" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".23"/><stop offset=".52" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity="0"/></linearGradient>
+ <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#252525" stroke-width="1"/></pattern>
+ <clipPath id="left"><rect x="36" y="112" width="546" height="165" rx="16"/></clipPath><clipPath id="right"><rect x="618" y="112" width="546" height="165" rx="16"/></clipPath>
+ <style>
+ .mono{font-family:ui-monospace,'DejaVu Sans Mono',monospace}.sweep{animation:slide 4s linear infinite}.cursor{animation:blink 1s steps(1,end) infinite}.star{animation:glow 3s ease-in-out infinite alternate}.stroke{animation:breathe 3.8s ease-in-out infinite}.waves{animation:move 5s ease-in-out infinite alternate}
+ @keyframes slide{from{transform:translateX(-750px)}to{transform:translateX(1750px)}}@keyframes blink{50%{opacity:0}}@keyframes glow{to{opacity:.16}}@keyframes breathe{50%{stroke:#fff;stroke-opacity:.65}}@keyframes move{to{transform:translateX(24px)}}
+ @media(prefers-reduced-motion:reduce){*{animation:none!important}}
+ </style></defs>
+<rect width="1200" height="330" rx="20" fill="#000"/><rect width="1200" height="330" rx="20" fill="url(#grid)" opacity=".36"/>
+<rect x="1" y="1" width="1198" height="328" rx="19" fill="none" stroke="#303030"/>
+<text x="36" y="64" font-size="27" fill="#fff" class="mono" font-weight="700">&gt; featured_projects --production</text><rect class="cursor" x="548" y="39" width="13" height="30" fill="#fff"/>
+<path d="M36 85H1164" stroke="#626262" stroke-width="1"/>
+<rect class="stroke" x="36" y="112" width="546" height="165" rx="16" fill="#050505" stroke="#777" stroke-opacity=".38" stroke-width="2"/>
+<rect class="stroke" x="618" y="112" width="546" height="165" rx="16" fill="#050505" stroke="#777" stroke-opacity=".38" stroke-width="2"/>
+<g clip-path="url(#left)"><rect class="sweep" x="36" y="112" width="520" height="165" fill="url(#shine)"/></g>
+<g clip-path="url(#right)"><rect class="sweep" x="618" y="112" width="520" height="165" fill="url(#shine)"/></g>
+<text x="65" y="154" fill="#fff" font-size="26" font-weight="700" class="mono">&lt;/&gt; DevPilot AI</text>
+<text x="65" y="192" fill="#aaa" font-size="18" class="mono">Análise e revisão de código</text><text x="65" y="239" fill="#ddd" font-size="18" class="mono">Python  /  FastAPI  /  PostgreSQL</text>
+<text x="648" y="154" fill="#fff" font-size="26" font-weight="700" class="mono">▣ SGA</text><text x="648" y="192" fill="#aaa" font-size="18" class="mono">Sistema de Gestão de Ambientes</text><text x="648" y="239" fill="#ddd" font-size="18" class="mono">Angular  /  TypeScript  /  Firebase</text>
+<path class="waves" d="M-25 305Q150 276 320 305T650 305T1225 305" stroke="#666" stroke-opacity=".65" fill="none"/>
+</svg>
