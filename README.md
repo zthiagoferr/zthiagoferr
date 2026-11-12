@@ -137,6 +137,6 @@ Projeto colaborativo voltado à gestão de espaços para escolas, empresas e equ
 
 <img src="./assets/footer.svg" alt="Build, test, deploy, evolve" width="100%" />
 
-<sub>Feito com 🖤, frontend, backend e uma boa dose de curiosidade. | Thiago Ferreira de Oliveira</sub>
+<sub>Frontend, backend e uma boa dose de curiosidade. | Thiago Ferreira de Oliveira</sub>
 
 </div>
