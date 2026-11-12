@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-label="Thiago Ferreira de Oliveira, desenvolvedor Full Stack">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#000000"/><stop offset=".55" stop-color="#000000"/><stop offset="1" stop-color="#000000"/></linearGradient>
+ <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#BDBDBD"/><stop offset=".5" stop-color="#BDBDBD"/><stop offset="1" stop-color="#BDBDBD"/></linearGradient>
+ <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#303030" opacity=".22"/></pattern>
+ <clipPath id="frame"><rect x="1" y="1" width="1198" height="358" rx="22"/></clipPath>
+ <style>
+ .mono{font-family:'DejaVu Sans Mono',monospace}.label{font-size:16px;letter-spacing:3px;fill:#919191}.name{font-family:'DejaVu Sans',sans-serif;font-weight:800;font-size:58px;fill:#FFFFFF}.role{font-size:22px;fill:#FFFFFF}.small{font-size:14px;fill:#919191}
+ .pulse{animation:pulse 3.5s ease-in-out infinite}.float{animation:float 5s ease-in-out infinite}.blink{animation:blink 1s steps(1) infinite}.scan{animation:scan 9s linear infinite}.orbit{transform-origin:990px 180px;animation:spin 24s linear infinite}.dash{stroke-dasharray:11 17;animation:dash 6s linear infinite}
+ @keyframes pulse{50%{opacity:.35}}@keyframes float{50%{transform:translateY(-9px)}}@keyframes blink{50%{opacity:0}}@keyframes scan{from{transform:translateY(-50px)}to{transform:translateY(420px)}}@keyframes spin{to{transform:rotate(360deg)}}@keyframes dash{to{stroke-dashoffset:-112}}
+ @media(prefers-reduced-motion:reduce){*{animation:none!important}}
+ </style>
+</defs>
+<g clip-path="url(#frame)"><rect width="1200" height="360" fill="url(#bg)"/><rect width="1200" height="360" fill="url(#grid)"/>
+ <path d="M0 340 C250 240 480 405 740 310 S1110 265 1200 160" stroke="#FFFFFF" stroke-width="2" opacity=".24" fill="none"/>
+ <rect class="scan" x="0" y="0" width="1200" height="45" fill="#BDBDBD" opacity=".025"/>
+ <circle cx="1000" cy="177" r="135" fill="none" stroke="#BDBDBD" opacity=".12" stroke-width="36"/>
+ <circle cx="1000" cy="177" r="104" fill="none" stroke="#BDBDBD" opacity=".3" stroke-width="1.5"/>
+ <g class="orbit"><circle cx="990" cy="180" r="84" fill="none" stroke="url(#stroke)" stroke-width="3" class="dash"/><circle cx="990" cy="96" r="7" fill="#BDBDBD"/></g>
+ <g class="float"><rect x="931" y="129" width="118" height="98" rx="20" fill="#080808" stroke="#BDBDBD" stroke-width="2"/><text x="990" y="192" text-anchor="middle" font-family="monospace" font-size="40" font-weight="bold" fill="#FFFFFF">{ }</text></g>
+ <rect x="33" y="33" width="151" height="32" rx="16" fill="#080808" stroke="#BDBDBD" opacity=".95"/><circle class="pulse" cx="49" cy="49" r="5" fill="#BDBDBD"/><text class="mono" x="65" y="54" font-size="13" fill="#FFFFFF">OPEN TO BUILD</text>
+ <text class="label mono" x="40" y="108">HELLO WORLD, EU SOU</text>
+ <text class="name" x="38" y="180">THIAGO FERREIRA</text><text class="name" x="38" y="245">DE OLIVEIRA<tspan class="blink" fill="#FFFFFF">_</tspan></text>
+ <text class="role mono" x="41" y="289">FULL STACK  •  FRONTEND + BACKEND</text>
+ <text class="small mono" x="42" y="325">Do pixel à API. Da ideia à produção.</text>
+ <rect x="1" y="1" width="1198" height="358" rx="22" fill="none" stroke="url(#stroke)" stroke-width="2" opacity=".78"/>
+</g></svg>
